@@ -1,0 +1,206 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    margin: 0.5em;
+    text-align: center;
+    font: Bold 42px/12px Arial;
+    color: #4a4a4a;
+}
+
+h2{
+    font-size: 48;
+    font-weight: 500;
+}
+
+footer a{
+    text-decoration: underline;
+    color: white;
+}
+
+footer .ico{
+    font-size: 25;
+    padding: 2%;
+}
+
+footer h4{
+    color: #F25D07;
+    font-weight: 600;
+}
+
+footer #footer-social{
+    justify-content: center;
+    padding-top: 2%;
+}
+
+
+.navbar .navbar-item:hover{
+    color: #F25D07 !important;
+}
+
+.topnav a:hover{
+   color: black !important;
+   background-color: inherit; 
+}
+
+#socials a{
+    color: white;
+    font-size: 20;
+}
+
+#socials .ico{
+    color: white;
+    font-size: 30;
+}
+
+footer a:hover{
+    color: #F25D07;
+}
+
+nav img{
+    height: 100px;
+}
+
+nav .navbar-end .buttons{
+    padding-left: 2%;
+}
+
+#home-content{
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+#home-content h1{
+    font-size: 75;
+    font-weight: 600;
+    color: #F25D07;
+    margin-left: unset;
+} 
+
+#home-content .ico{
+    color: black;
+    font-size: 50;
+    padding-right: 5%;
+}
+
+#home-content .columns{
+    justify-content: space-between;
+}
+
+#home-content figure{
+    margin-right: -10em;
+    width: 95%;
+}
+
+
+.box{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+#box-link{
+    color: black;
+    text-decoration: underline;
+}
+
+#box-link:hover{
+    color: #F25D07;
+}
+
+.box-little{
+    font-size: 11;
+}
+
+.box-big{
+    font-size: 32;
+    font-weight: 600;
+}
+
+.box .button{
+    font-size: 24;
+}
+
+.cursor{
+    font-weight: 700;
+    font-size: large;
+    color: #F25D07;
+}
+
+#keynote{
+    padding-top: 3%;
+    padding-bottom: 3%;   
+}
+
+#keynote .speaker{
+    color: #A60311;
+    font-size: 24;
+    font-weight: 600;
+}
+
+#keynote .speaker-info{
+    color: #A60311;
+    font-weight: 400;
+}
+
+#keynote .keynote-title{
+    font-size: 20;
+    font-weight: 600;
+}
+
+.speaker-dot {
+    height: 12em;
+    width: 12em;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(../img/illustration_committee.svg);
+    border-radius: 50%;
+    border: .25em beige solid;
+    display: inline-block;
+    background-color: #F2D98D;
+}
+
+/*#keynote .keynote-time{
+    
+}*/
+
+#expect{
+    padding-top: 3%;
+    padding-bottom: 3%
+}
+
+#expect .expect-title{
+    font-size: 20;
+    font-weight: 600;
+}
+
+#expect .is-alligne-end{
+    font-size: 48;
+    font-weight: 500;
+}
+
+#highlights{
+    padding-top: 5%;
+    padding-bottom: 5%
+}
+
+#highlights .card{
+    background-image: url(../img/illustration_home.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#highlights .card p{
+    color: rgba(255, 255, 255, 0);
+}
+
+#highlights .card:hover p{
+    color: white;
+    
+}
+#highlights .card:hover{
+    background-color: #A60311;
+    background-image: none;
+}
+

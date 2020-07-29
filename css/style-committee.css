@@ -1,0 +1,154 @@
+/*main {
+    padding: 3em 2em 0em 2em;
+}*/
+
+.page-title {
+    margin: 1.2em 0em;
+    text-align: center;
+    font: Bold 42px/12px Arial;
+    letter-spacing: 0px;
+    opacity: 1;
+}
+
+h2 {
+    margin: 3em 0em;
+    font: Bold 38px/12px Arial;
+    letter-spacing: 0px;
+    opacity: 1;
+}
+
+main img {
+    width: 35em;
+    margin-top: 2em;
+}
+
+.part-1 {
+    text-align: center;
+    width: 100%;
+}
+
+.container {
+    text-align: center;
+}
+
+
+
+.cards {
+    width: 20%;
+    background-color: #F2D98D;
+    border-radius: 10px;
+    padding: 1.5em;
+    text-align: center;
+    display: inline-block;
+    margin-right: 2em;
+    margin-left: 2em;
+}
+
+.cards:hover {
+    box-shadow: rgba(0, 0, 0, 0.20) 2px 2px 5px;
+}
+
+.cards-header {
+    border-bottom: 0.1em solid #fff;
+    margin-top: 1em;
+    padding: 0em 0em 0.5em 0em
+}
+
+.dot {
+    height: 5em;
+    width: 5em;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(../img/illustration_committee.svg);
+    border-radius: 50%;
+    border: .25em #fff solid;
+    display: inline-block;
+}
+
+.cards-title {
+    padding-bottom: 0px;
+    font-size: 1.5em;
+}
+
+.cards-subtitle {
+    font-weight: lighter;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.cards-body {
+    margin: 0.5em 0em;
+    padding:1.5em 1.5em;
+}
+
+.cards-body p {
+    margin-bottom: 3em;
+    font-size: 0.75em;
+}
+
+.cards-body button {
+    border-radius: 0.5em;
+    width: 12em;
+    border: none;
+    color: #F2D98D;
+    background-color: #F25D07;
+    padding: 1em 1em;
+    
+}
+
+.cards-body button:hover {
+    color: bisque;
+    background-color: rgb(187, 8, 8);
+    box-shadow: rgba(0, 0, 0, 0.20) 2px 2px 5px;
+    transition: 0.2s ease-in-out;
+}
+
+.members-container{
+    padding-top: 3%;
+    padding-bottom: 10%;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+
+.member-profile {
+    padding: 0em 0em 1.5em 0em;
+    display: inline-block;
+    width: 15%;
+    margin: 1em; 
+}
+
+.member-dot {
+    height: 8em;
+    width: 8em;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(../img/illustration_committee.svg);
+    border-radius: 50%;
+    border: .25em beige solid;
+    display: inline-block;
+    background-color: #F2D98D;
+}
+
+.member-name {
+    padding-bottom: 0px;
+    font-size: 1.5em;
+
+}
+
+.member-position {
+    font-weight: lighter;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+main button{
+    color: white;
+}
+
+
+
+

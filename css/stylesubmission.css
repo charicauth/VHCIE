@@ -1,0 +1,37 @@
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 42px;
+}
+
+#top{
+    padding-top: 3%;
+    padding-bottom: 5%;
+}
+
+#bottom{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.columns:not(.is-mobile footer){
+    padding-top: 3%;
+    padding-bottom: 3%;
+    justify-content: space-between;
+}
+
+.column:not(footer){
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+#submit{
+    padding-top: 10%;
+    padding-bottom: auto;
+}
+
+#submit .container{
+    padding-top: 3%;
+    padding-bottom: 3%;
+    border-radius: 10px;
+}
