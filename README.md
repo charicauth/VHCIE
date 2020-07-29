@@ -17,8 +17,8 @@ Notre équipe est constituée de 4 membres :
 
 * **Amélie Nicoux** : [LinkedIn](https://www.linkedin.com/in/amelienicoux/), [Behance](https://www.behance.net/amelienicoux)  
 * **Thoma Decroux-Menier** : [LinkedIn](https://www.linkedin.com/in/thoma-decroux-menier/), [Behance](https://www.behance.net/thomadecroux)
-* **Joanel Charicaul** : [LinkedIn](https://www.linkedin.com/in/charicauth-joanel/), [Behance](https://www.behance.net/cryj)  
-* **Alexis Hutin** (moi même) : [LinkedIn](https://www.linkedin.com/in/alexis-hutin/)  
+* **Joanel Charicauth** : [LinkedIn](https://www.linkedin.com/in/charicauth-joanel/), [Behance](https://www.behance.net/cryj)  
+* **Alexis Hutin** : [LinkedIn](https://www.linkedin.com/in/alexis-hutin/)  
 
 ## Jour 1 : 2 Juin 2020
 Pour ce premier jour de My Digital Week, nous avons commencé par organiser les tâches en fonction des affinités de chacun.  
